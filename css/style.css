@@ -141,7 +141,7 @@
 }
 
 .trend_1 {
-    background-image: url(/images/trend1.jpg);
+    background-image: url(../images/trend1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -149,7 +149,7 @@
 }
 
 .trend_2 {
-    background-image: url(/images/trend2.jpg);
+    background-image: url(../images/trend2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -157,7 +157,7 @@
 }
 
 .trend_3 {
-    background-image: url(/images/trend3.jpg);
+    background-image: url(../images/trend3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -165,7 +165,7 @@
 }
 
 .trend_4 {
-    background-image: url(/images/trend4.jpg);
+    background-image: url(../images/trend4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -416,7 +416,7 @@
     -webkit-appearance: none;
     -moz-appearance: none;
     background-color: #b59f5b;
-    background-image: url(/svg/search.svg);
+    background-image: url(../svg/search.svg);
     background-repeat: no-repeat;
     background-size: 1em;
     background-position: center center;
@@ -718,31 +718,31 @@
 }
 
 .icon-twitter {
-    background-image: url(/svg/004-twitter.svg);
+    background-image: url(../svg/004-twitter.svg);
     background-size: cover;
     margin-left: 0;
 }
 
 .icon-pinterest {
-    background-image: url(/svg/001-pinterest.svg);
+    background-image: url(../svg/001-pinterest.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .icon-facebook {
-    background-image: url(/svg/002-facebook-logo.svg);
+    background-image: url(../svg/002-facebook-logo.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .icon-instagram {
-    background-image: url(/svg/005-instagram.svg);
+    background-image: url(../svg/005-instagram.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .icon-tumbler {
-    background-image: url(/svg/003-tumblr.svg);
+    background-image: url(../svg/003-tumblr.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
