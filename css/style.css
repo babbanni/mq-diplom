@@ -6,20 +6,20 @@
 
 @font-face {
     font-family: "Open-Sans-Reg";
-    src: url(/fonts/OpenSans-Regular.woff);
+    src: url(../fonts/OpenSans-Regular.woff);
     font-style: normal;
     font-weight: 400;
 }
 
 @font-face {
     font-family: "Open-Sans-Bold ";
-    src: url(/fonts/OpenSans-Bold.woff);
+    src: url(../fonts/OpenSans-Bold.woff);
     font-style: normal;
     font-weight: 700;
 }
 
 .header {
-    background-image: url(/images/banner-bg.jpg);
+    background-image: url(../images/banner-bg.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
