@@ -10,6 +10,37 @@
 </head>
 
 <body>
+    <div class="popup_hidden">
+        <a href="#0" class="popup_close_link">
+            <span class="close_text">Закрыть</span>
+        </a>
+        <form class="popup">
+
+            <a href="#0" class="popup-title-link">
+                <h2>Ваш фидбек</h2>
+            </a>
+            <label class="form-group">
+                    <span class="popup_text">Как часто вы заходите на сайт?</span>
+                    <select class="select">
+                        <option selected>Почти каждый день</option>
+                        <option>Не нажимай сюда</option>
+                        <option>Никогда</option>
+                    </select>
+                </label>
+            <span class="popup_text">Вы подписаны на e-mail рассылку?</span>
+            <div class="popup-radio-block">
+                <label class="popup_radio">
+                    <input type="radio" name="radio" class="radio"> <span class="radio_item">Да</span>
+                </label>
+                <label class="popup_radio">
+                    <input type="radio" name="radio" class="radio"> <span class="radio_item">Нет</span>
+                </label>
+            </div>
+            <span class="popup_text">Расскажите, какой контент вы бы хотели видеть на нашем сайте?</span>
+            <textarea class="textarea" placeholder="Может, больше рецептов?"></textarea>
+            <button type="submit" class="button_popup">Отправить</button>
+        </form>
+    </div>
     <header class="header">
         <div class="header-content">
             <div class="header-logo-menu">
@@ -387,6 +418,7 @@
                 </div>
             </div>
         </footer>
+
 </body>
 
 </html>
