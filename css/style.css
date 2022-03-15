@@ -5,17 +5,16 @@
 }
 
 @font-face {
-    font-family: "Open-Sans-Reg";
+    font-family: "Open-Sans-Reg", sans-serif;
     src: url(../fonts/OpenSans/OpenSans-Regular.woff);
     font-style: normal;
-    font-weight: 400;
 }
 
 @font-face {
-    font-family: "Open-Sans-Bold ";
+    font-family: "Open-Sans-Bold", sans-serif;
     src: url(../fonts/OpenSans/OpenSans-Bold.woff);
     font-style: normal;
-    font-weight: 700;
+    font-weight: bold;
 }
 
 @media (max-width: 640px) and (orientation: portrait) {
@@ -72,10 +71,10 @@
         text-decoration: none;
         color: #0f0d0e;
         font-size: 16px;
-        font-weight: 700;
+        font-weight: bold;
     }
     .popup-text {
-        font-family: "Open-Sans-Reg";
+        font-family: "Open-Sans-Reg", sans-serif;
         font-size: 14px;
     }
     .popup-title-link h2::after {
